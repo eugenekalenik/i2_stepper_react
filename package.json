@@ -2,7 +2,7 @@
   "name": "6_wizard_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eugenekalenik.github.io/6_wizard_react_new/",
+  "homepage": "https://eugenekalenik.github.io/i6_stepper_react/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
