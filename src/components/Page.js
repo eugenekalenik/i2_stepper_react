@@ -32,6 +32,8 @@ const Page = (props) => {
           ) }
         </div>
       }
+
+      return null;
     })
   }
 
