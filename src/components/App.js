@@ -91,6 +91,10 @@ class App extends Component {
           onReset={ this.reset }
         />
         { !!cars.length && <Table state={ this.state } /> }
+        <div className="container text-right">
+          <hr/>
+          <small>Updated 22.12.2018</small>
+        </div>
       </>
     );
   }
